@@ -1,0 +1,6 @@
+{
+  "name": "KERNEL OVERCLOCK // Zero-Day Protocol",
+  "description": "An electrifying 3D cyberpunk arena roguelike for tech titans & developers. Eliminate memory leaks, deploy garbage collection shockwaves, overclock kernels, and defeat rogue AGI monoliths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
